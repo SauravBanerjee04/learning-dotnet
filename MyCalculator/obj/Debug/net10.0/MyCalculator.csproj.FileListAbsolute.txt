@@ -1,0 +1,14 @@
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/bin/Debug/net10.0/MyCalculator
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/bin/Debug/net10.0/MyCalculator.deps.json
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/bin/Debug/net10.0/MyCalculator.runtimeconfig.json
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/bin/Debug/net10.0/MyCalculator.dll
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/bin/Debug/net10.0/MyCalculator.pdb
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/obj/Debug/net10.0/MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/obj/Debug/net10.0/MyCalculator.AssemblyInfoInputs.cache
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/obj/Debug/net10.0/MyCalculator.AssemblyInfo.cs
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/obj/Debug/net10.0/MyCalculator.csproj.CoreCompileInputs.cache
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/obj/Debug/net10.0/MyCalculator.dll
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/obj/Debug/net10.0/refint/MyCalculator.dll
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/obj/Debug/net10.0/MyCalculator.pdb
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/obj/Debug/net10.0/MyCalculator.genruntimeconfig.cache
+/Users/sauravbanerjee/Documents/GitHub/learning-dotnet/MyCalculator/obj/Debug/net10.0/ref/MyCalculator.dll
